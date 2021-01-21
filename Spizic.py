@@ -85,4 +85,4 @@ async def change_status():
     await client.change_presence(activity=discord.Game(choice(status)))
 
 
-client.run('Nzk5ODYxMjgwNzAxMTUzMjgw.YAJu3g.bWiw0JHzDm2IdkOa-brXQ_iUjUA')
+client.run('Bot Token')
